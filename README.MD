@@ -1,7 +1,7 @@
 # Auto Typer
 `Beep boop, type like human`
 
-![Your WebM Video](media/output.webm)
+![shh, it's a secret](media/typing.gif)
 
 # How to run
 
